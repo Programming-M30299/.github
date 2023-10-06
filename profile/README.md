@@ -6,6 +6,7 @@ The "Programming" module is targeted at first-year undergraduate students. We co
 
 **Module Coordinator:**  
 - Matthew Poole (matthew.poole@port.ac.uk)
+
 **Lecturers:**  
 - Mani Ghahremani (mani.ghahremani@port.ac.uk)
 - Nadim Bakhshov (nadim.bakhshov@port.ac.uk)
