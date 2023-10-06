@@ -2,7 +2,7 @@
 Welcome to the GitHub organization for the "Programming" module (M30299) at the School of Computing, University of Portsmouth! We are excited you're here. This space is for both students and educators involved in the module to collaborate, share resources, and build amazing things.
 
 ### 🙋‍♀️ About the Module
-The "Programming" module is targeted at first-year undergraduate students. We cover Python and Dart as the primary programming languages and require no prerequisites—making this an ideal starting point for those new to computer science!
+The "Programming" module is targeted at first-year undergraduate students. We cover Python and Dart as the primary programming languages and require no prerequisites—making this an ideal starting point for those new to computing!
 
 **Module Coordinator:**  
 - Matthew Poole (matthew.poole@port.ac.uk)
